@@ -6,7 +6,7 @@ class QuocHuyIT {
   constructor() {
     this.class = 2022;
     this.age = '2003';
-    this.address = 'Hòa Phước, Việt Nam';
+    this.address = 'Da Nang';
     this.school =  "FPT 🐘";
     this.hobbies = ["Play football", "Programming", "Youtube"]
   }
