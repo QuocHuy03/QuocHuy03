@@ -10,12 +10,3 @@ class HuyDev {
   }
 }
 ```
-
-
-  ## 💰You can help me by Donating
-
-  MBBANK : 0775502724
-  MOMO : 0775502724
-  
-
-<!-- Q.HuyIT03 Thankiu -->
