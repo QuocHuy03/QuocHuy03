@@ -6,7 +6,7 @@ class HuyDev {
   constructor() {
     this.class = 2022;
     this.age = '2003';
-    this.address = 'Da Nang';
+   
   }
 }
 ```
