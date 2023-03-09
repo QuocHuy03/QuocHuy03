@@ -4,7 +4,7 @@
 ```typescript
 class HuyDev {
   constructor() {
-    this.class = 2022;
+    this.class = 17303;
     this.age = '2003';
    
   }
