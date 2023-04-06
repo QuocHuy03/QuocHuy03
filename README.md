@@ -3,10 +3,10 @@
 
 ```typescript
 class HuyDev {
-  constructor() {
-    this.class = 17303;
-    this.age = '2003';
-   
+  constructor(className, age) {
+    this.className = className;
+    this.age = age;
   }
 }
+const QuocHuy = new HuyDev("Web17303", "19");
 ```
