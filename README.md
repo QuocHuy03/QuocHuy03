@@ -1,4 +1,3 @@
-# Hi, I’m Lê Quốc Huy! 
 👨 I'm Le Quoc Huy, studying Web Programming
 
 ```typescript
