@@ -3,8 +3,8 @@
 ```python
 class HuyDev:
     def __init__(self, className, age):
-        self.className = className
+        self.address = address
         self.age = age
 
-QuocHuy = HuyDev("Web17303", "19")
+Website Developer = HuyDev("VietNam", "19")
 ```
