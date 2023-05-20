@@ -1,11 +1,10 @@
 👨 I'm Le Quoc Huy , studying Web Programming
 
-```typescript
-class HuyDev {
-  constructor(className, age) {
-    this.className = className;
-    this.age = age;
-  }
-}
-const QuocHuy = new HuyDev("Web17303", "19");
+```python
+class HuyDev:
+    def __init__(self, className, age):
+        self.className = className
+        self.age = age
+
+QuocHuy = HuyDev("Web17303", "19")
 ```
