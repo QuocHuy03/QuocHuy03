@@ -6,5 +6,5 @@ class HuyDev:
         self.address = address
         self.age = age
 
-Website Developer = HuyDev("VietNam", "19")
+WebsiteDeveloper = HuyDev("VietNam", "19")
 ```
