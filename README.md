@@ -1,1 +1,1 @@
-👨 I'm Le Quoc Huy , studying Web Programming
+👨 I'm Le Quoc Huy , Web Programming
