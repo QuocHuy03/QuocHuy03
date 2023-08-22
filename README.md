@@ -1,5 +1,4 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
 
 <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=F05032" alt="Laravel logo" title="Laravel" height="25" /></span>
 &nbsp;
