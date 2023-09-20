@@ -32,7 +32,7 @@
 
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/quochuy03"><img src="https://skillicons.dev/icons?i=vscode,replit,mongodb,express,bots,nodejs,typescript,mysql,laravel,nextjs,cronjob"> </a> </p>
+<p align="left"> <a href="https://github.com/quochuy03"><img src="https://skillicons.dev/icons?i=vscode,replit,mongodb,express,nodejs,typescript,mysql,laravel,nextjs,prisma,unbutu,aws,azure"> </a> </p>
 
 
 
